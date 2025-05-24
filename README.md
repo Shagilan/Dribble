@@ -231,7 +231,7 @@ body {
 
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/cbf69140-12cc-421a-85e1-e300d7c955ca)
+![Screenshot 2025-05-23 211859](https://github.com/user-attachments/assets/02d96048-cebd-4be6-8f17-2e1dbce222cd)
 
 
 ## RESULT:
